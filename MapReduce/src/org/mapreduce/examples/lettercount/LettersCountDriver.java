@@ -21,7 +21,7 @@ public class LettersCountDriver {
 		job.setReducerClass(LetterCountReducer.class);
 		job.setOutputKeyClass(Text.class);
 		job.setOutputValueClass(LongWritable.class);
-		
+		job.setCombinerClass(LetterCountReducer.class);
 		job.setMapOutputKeyClass(Text.class);
 		job.setMapOutputValueClass(LongWritable.class);
 		
