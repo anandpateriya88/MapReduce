@@ -105,5 +105,6 @@
 	<classpathentry kind="lib" path="G:/Hadoop_2015/HadoopEclipseProject/libs/xz-1.0.jar"/>
 	<classpathentry kind="lib" path="G:/Hadoop_2015/HadoopEclipseProject/libs/zookeeper.jar"/>
 	<classpathentry kind="lib" path="G:/Hadoop_2015/HadoopEclipseProject/libs/zookeeper-3.4.5-cdh5.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
